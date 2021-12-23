@@ -3,7 +3,7 @@ owner: edmondsket # Your GitHub organization or username, where this repository 
 repo: upptime # The name of this repository
 sites: # 网址结尾不要加斜杠，名字用英文开头
   - name: Google
-    url: https://www.google.com
+    url: https://www.goo000gle.cm
   - name: Main Site 平替生活
     url: https://cheapy.top
   - name: Nav Site 平替导航
@@ -24,7 +24,12 @@ status-website:
       href: https://edmondsket.github.io/upptime/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+assignees:
+  - edmondsket
 
+notifications:
+  - type: telegram
+  
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
   i18n:
