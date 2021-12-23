@@ -5,7 +5,7 @@ sites: # 网址结尾不要加斜杠，名字用英文开头
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
-    url: https://en.wikipedia.org
+    url: https://en.wikipeddddddia.org
   - name: Main Site 平替生活
     url: https://cheapy.top
   - name: Nav Site 平替导航
