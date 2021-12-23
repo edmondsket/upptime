@@ -1,17 +1,17 @@
 # Change these first
 owner: edmondsket # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
-sites:
+sites: # 网址结尾不要加斜杠
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: 平替生活
-    url: https://cheapy.top/
+    url: https://cheapy.top
   - name: Cheapy导航
-    url: https://cheapy.top/
+    url: https://cheapy.top
   - name: 平替下载站
-    url: https://dl.ptlife.eu.org/
+    url: https://dl.ptlife.eu.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
