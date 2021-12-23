@@ -1,7 +1,6 @@
 # Change these first
 owner: edmondsket # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
-https://github.com/edmondsket/upptime/blob/master/.upptimerc.yml
 sites:
   - name: Google
     url: https://www.google.com
