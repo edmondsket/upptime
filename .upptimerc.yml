@@ -24,11 +24,11 @@ status-website:
       href: https://edmondsket.github.io/upptime/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-assignees:
-  - edmondsket
+  assignees:
+    - edmondsket
 
-notifications:
-  - type: telegram
+  notifications:
+    - type: telegram
   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
