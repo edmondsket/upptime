@@ -7,10 +7,6 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
   - name: 平替生活
     url: https://cheapy.top/
   - name: Cheapy导航
@@ -28,7 +24,7 @@ status-website:
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
-      href: /
+      href: https://edmondsket.github.io/upptime/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
