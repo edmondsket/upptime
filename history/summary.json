@@ -24,43 +24,47 @@
     "url": "https://cheapy.top",
     "icon": "https://favicons.githubusercontent.com/cheapy.top",
     "slug": "main-site",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 565,
     "timeDay": 568,
     "timeWeek": 565,
     "timeMonth": 565,
     "timeYear": 565,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-29": 1
+    }
   },
   {
     "name": "Nav Site 平替导航",
     "url": "https://nav.cheapy.top",
     "icon": "https://favicons.githubusercontent.com/nav.cheapy.top",
     "slug": "nav-site",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 348,
     "timeDay": 139,
     "timeWeek": 348,
     "timeMonth": 348,
     "timeYear": 348,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-29": 1
+    }
   },
   {
     "name": "Download Site 平替下载站",
     "url": "https://dl.ptlife.eu.org",
     "icon": "https://favicons.githubusercontent.com/dl.ptlife.eu.org",
     "slug": "download-site",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,6 +75,8 @@
     "timeWeek": 394,
     "timeMonth": 394,
     "timeYear": 394,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-29": 0
+    }
   }
 ]
