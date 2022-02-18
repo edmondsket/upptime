@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 721,
-    "timeDay": 456,
-    "timeWeek": 628,
-    "timeMonth": 705,
+    "timeDay": 742,
+    "timeWeek": 642,
+    "timeMonth": 708,
     "timeYear": 721,
     "dailyMinutesDown": {
       "2022-01-09": 27,
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 315,
-    "timeDay": 65,
-    "timeWeek": 194,
-    "timeMonth": 294,
-    "timeYear": 315,
+    "time": 317,
+    "timeDay": 391,
+    "timeWeek": 212,
+    "timeMonth": 293,
+    "timeYear": 317,
     "dailyMinutesDown": {
       "2021-12-29": 111
     }
@@ -66,16 +66,16 @@
     "icon": "https://favicons.githubusercontent.com/dl.ptlife.eu.org",
     "slug": "download-site",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
-    "time": 340,
-    "timeDay": 598,
-    "timeWeek": 408,
-    "timeMonth": 321,
-    "timeYear": 340,
+    "uptimeYear": "99.87%",
+    "time": 341,
+    "timeDay": 400,
+    "timeWeek": 414,
+    "timeMonth": 319,
+    "timeYear": 341,
     "dailyMinutesDown": {
       "2021-12-29": 110
     }
