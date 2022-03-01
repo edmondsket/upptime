@@ -24,10 +24,10 @@
     "url": "https://cheapy.top",
     "icon": "https://favicons.githubusercontent.com/cheapy.top",
     "slug": "main-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 699,
@@ -36,6 +36,7 @@
     "timeMonth": 647,
     "timeYear": 699,
     "dailyMinutesDown": {
+      "2022-03-01": 1,
       "2022-01-09": 27,
       "2021-12-29": 111
     }
@@ -45,10 +46,10 @@
     "url": "https://nav.cheapy.top",
     "icon": "https://favicons.githubusercontent.com/nav.cheapy.top",
     "slug": "nav-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
     "time": 306,
@@ -57,6 +58,7 @@
     "timeMonth": 255,
     "timeYear": 306,
     "dailyMinutesDown": {
+      "2022-03-01": 1,
       "2021-12-29": 111
     }
   },
@@ -65,9 +67,9 @@
     "url": "https://dl.ptlife.eu.org",
     "icon": "https://favicons.githubusercontent.com/dl.ptlife.eu.org",
     "slug": "download-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
@@ -77,6 +79,7 @@
     "timeMonth": 333,
     "timeYear": 338,
     "dailyMinutesDown": {
+      "2022-03-01": 0,
       "2021-12-29": 110
     }
   }
