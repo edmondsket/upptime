@@ -68,9 +68,9 @@
     "url": "https://dl.ptlife.eu.org",
     "icon": "https://favicons.githubusercontent.com/dl.ptlife.eu.org",
     "slug": "download-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
@@ -80,6 +80,7 @@
     "timeMonth": 312,
     "timeYear": 362,
     "dailyMinutesDown": {
+      "2022-04-11": 0,
       "2022-03-09": 44,
       "2022-03-01": 46,
       "2021-12-29": 110
