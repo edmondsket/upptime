@@ -23,15 +23,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cheapy.top.ico",
     "slug": "main-site",
     "status": "up",
-    "uptime": "96.82%",
+    "uptime": "96.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.38%",
     "uptimeYear": "96.78%",
-    "time": 910,
-    "timeDay": 901,
-    "timeWeek": 739,
-    "timeMonth": 848,
+    "time": 909,
+    "timeDay": 632,
+    "timeWeek": 745,
+    "timeMonth": 841,
     "timeYear": 918,
     "dailyMinutesDown": {
       "2022-12-13": 1152,
@@ -57,8 +57,7 @@
       "2022-04-27": 39,
       "2022-03-28": 16,
       "2022-03-01": 47,
-      "2022-01-09": 27,
-      "2021-12-29": 111
+      "2022-01-09": 27
     }
   },
   {
@@ -73,9 +72,9 @@
     "uptimeMonth": "89.37%",
     "uptimeYear": "98.04%",
     "time": 445,
-    "timeDay": 606,
-    "timeWeek": 457,
-    "timeMonth": 614,
+    "timeDay": 393,
+    "timeWeek": 455,
+    "timeMonth": 605,
     "timeYear": 447,
     "dailyMinutesDown": {
       "2022-12-14": 155,
@@ -92,8 +91,7 @@
       "2022-06-11": 333,
       "2022-05-05": 38,
       "2022-04-27": 38,
-      "2022-03-01": 46,
-      "2021-12-29": 111
+      "2022-03-01": 46
     }
   },
   {
@@ -102,18 +100,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dl.ptlife.eu.org.ico",
     "slug": "download-site",
     "status": "down",
-    "uptime": "68.67%",
+    "uptime": "68.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "68.27%",
+    "uptimeYear": "67.99%",
     "time": 382,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 381,
     "dailyMinutesDown": {
-      "2022-12-28": 83,
+      "2022-12-29": 85,
+      "2022-12-28": 1440,
       "2022-12-27": 1440,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
@@ -237,8 +236,7 @@
       "2022-04-27": 38,
       "2022-04-11": 74,
       "2022-03-09": 44,
-      "2022-03-01": 46,
-      "2021-12-29": 110
+      "2022-03-01": 46
     }
   }
 ]
