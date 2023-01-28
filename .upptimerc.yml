@@ -2,8 +2,6 @@
 owner: edmondsket # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 sites: # 网址结尾不要加斜杠，名字用英文开头
-  - name: Google
-    url: https://www.goo000gle.cm
   - name: 平替生活
     url: https://cheapy.top
   - name: 平替导航
