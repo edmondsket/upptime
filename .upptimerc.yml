@@ -4,11 +4,11 @@ repo: upptime # The name of this repository
 sites: # 网址结尾不要加斜杠，名字用英文开头
   - name: Google
     url: https://www.goo000gle.cm
-  - name: Main Site 平替生活
+  - name: 平替生活
     url: https://cheapy.top
-  - name: Nav Site 平替导航
+  - name: 平替导航
     url: https://nav.cheapy.top
-  - name: Download Site 平替下载站
+  - name: 平替下载站
     url: https://dl.ptlife.eu.org
 
 status-website:
