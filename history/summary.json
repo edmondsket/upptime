@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 938,
-    "timeDay": 938,
-    "timeWeek": 938,
-    "timeMonth": 938,
-    "timeYear": 938,
+    "time": 862,
+    "timeDay": 832,
+    "timeWeek": 862,
+    "timeMonth": 862,
+    "timeYear": 862,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 562,
-    "timeDay": 562,
-    "timeWeek": 562,
-    "timeMonth": 562,
-    "timeYear": 562,
+    "time": 513,
+    "timeDay": 403,
+    "timeWeek": 513,
+    "timeMonth": 513,
+    "timeYear": 513,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/dl.ptlife.eu.org.ico",
     "slug": "ptlife-dl",
     "status": "down",
-    "uptime": "6.25%",
-    "uptimeDay": "6.25%",
-    "uptimeWeek": "6.25%",
-    "uptimeMonth": "6.25%",
-    "uptimeYear": "6.25%",
-    "time": 519,
-    "timeDay": 519,
-    "timeWeek": 519,
-    "timeMonth": 519,
-    "timeYear": 519,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 419,
+    "timeDay": 391,
+    "timeWeek": 419,
+    "timeMonth": 419,
+    "timeYear": 419,
     "dailyMinutesDown": {
-      "2023-01-28": 0
+      "2023-01-30": 84,
+      "2023-01-29": 1440,
+      "2023-01-28": 838
     }
   }
 ]
