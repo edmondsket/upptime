@@ -4,18 +4,19 @@
     "url": "https://cheapy.top",
     "icon": "https://icons.duckduckgo.com/ip3/cheapy.top.ico",
     "slug": "cheapyblog",
-    "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.87%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
     "time": 899,
     "timeDay": 1148,
     "timeWeek": 1020,
     "timeMonth": 899,
     "timeYear": 899,
     "dailyMinutesDown": {
+      "2023-02-08": 0,
       "2023-01-30": 21
     }
   },
@@ -54,7 +55,7 @@
     "timeMonth": 387,
     "timeYear": 387,
     "dailyMinutesDown": {
-      "2023-02-08": 97,
+      "2023-02-08": 1027,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
       "2023-02-05": 1440,
