@@ -4,7 +4,7 @@
     "url": "https://cheapy.top",
     "icon": "https://icons.duckduckgo.com/ip3/cheapy.top.ico",
     "slug": "cheapyblog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
     "uptimeDay": "98.45%",
     "uptimeWeek": "99.78%",
@@ -72,7 +72,7 @@
     "timeMonth": 0,
     "timeYear": 372,
     "dailyMinutesDown": {
-      "2023-05-25": 622,
+      "2023-05-25": 662,
       "2023-05-24": 1440,
       "2023-05-23": 1440,
       "2023-05-22": 1440,
