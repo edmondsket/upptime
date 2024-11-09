@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cheapy.top.ico",
     "slug": "cheapyblog",
     "status": "up",
-    "uptime": "94.33%",
+    "uptime": "94.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "98.45%",
+    "uptimeYear": "98.72%",
     "time": 1631,
-    "timeDay": 1418,
-    "timeWeek": 1338,
-    "timeMonth": 1450,
+    "timeDay": 1589,
+    "timeWeek": 1372,
+    "timeMonth": 1445,
     "timeYear": 1642,
     "dailyMinutesDown": {
       "2024-10-22": 45,
@@ -23,8 +23,7 @@
       "2024-02-01": 1440,
       "2024-01-31": 1440,
       "2024-01-30": 665,
-      "2023-11-27": 64,
-      "2023-11-10": 861
+      "2023-11-27": 64
     }
   },
   {
@@ -39,10 +38,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.65%",
     "time": 773,
-    "timeDay": 339,
-    "timeWeek": 518,
-    "timeMonth": 538,
-    "timeYear": 787,
+    "timeDay": 795,
+    "timeWeek": 551,
+    "timeMonth": 525,
+    "timeYear": 788,
     "dailyMinutesDown": {
       "2024-10-14": 24,
       "2024-09-20": 52,
@@ -73,7 +72,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-08": 96,
+      "2024-11-09": 87,
+      "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
@@ -436,8 +436,7 @@
       "2023-11-14": 1440,
       "2023-11-13": 1440,
       "2023-11-12": 1440,
-      "2023-11-11": 1440,
-      "2023-11-10": 1440
+      "2023-11-11": 1440
     }
   }
 ]
